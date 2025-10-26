@@ -1,5 +1,4 @@
 # weird_monster
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/theunstopabble/weird_monster)
 
 This repository contains a procedural animation project that generates an interactive "weird monster" using JavaScript and the HTML5 Canvas. The creature, composed of a series of connected segments, dynamically follows the user's mouse cursor around the screen. The movement is achieved through a custom physics and inverse kinematics engine, which gives the creature a life-like, crawling motion.
 
